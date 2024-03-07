@@ -1,0 +1,26 @@
+#firstSection {
+    height: 30rem;
+    border: 1px solid black;
+    background-image: url("../../Assets/BGHeader.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.eclipseImg {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+}
+#secondSection {
+    border: 1px solid black;
+    height: 60rem;
+    background-color: brown;
+}
+.titleS2 {
+    padding-top: 20px;
+    margin: auto;
+    text-align: center;
+    font-size: 3rem;
+}

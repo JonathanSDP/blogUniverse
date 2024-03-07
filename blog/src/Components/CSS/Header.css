@@ -1,0 +1,39 @@
+.home-head-container {
+    display: flex;
+    top:0;
+    justify-content: end;
+    height: 8em;
+    background-color: rgba(0, 0, 0, 0.633);
+    position: fixed;
+    width: 100%;
+}
+.head-t-div {
+    display: flex;
+    color: red;
+    align-items: center;
+    margin-right: 1180px;
+}
+
+.nav-homebar ul{
+    list-style: none;
+    margin:auto;
+}
+.nav-homebar ul li{
+    float: left;
+    font-size: 1.6rem;
+    margin-top: 20px;
+    margin-right: 10px;
+    
+    
+}
+.nav-homebar ul li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 13px;
+}
+.nav-homebar ul li a:hover {
+    background-color: rgba(44, 117, 137, 0.599);
+    color:rgb(116, 248, 255);
+    border-radius: 30%;
+}
