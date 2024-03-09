@@ -73,10 +73,11 @@ body {
 
 #section3 {
     width: 100rem;
-    height: 122rem;
+    height: 110rem;
     margin-left: 40rem;
     margin-right: 40rem;
     background-color: rgba(34, 34, 78, 0.65);
+    border-bottom: 1px solid white;
 }
 
 .title3 {
@@ -91,8 +92,170 @@ body {
 
 .sImgDiv3{
     margin-left: 49rem;
-    margin-top: 30rem;
+    margin-top: 18rem;
 }
 .sImgDiv3 img{
     width: 55rem;
+}
+
+#section4 {
+    width: 100rem;
+    height: 180rem;
+    margin-left: 40rem;
+    margin-right: 40rem;
+    background-color: rgba(34, 34, 78, 0.65);
+    border-bottom: 1px solid white;
+}
+
+.title4 {
+    margin-left: 3rem;
+    padding-top: 30px;
+     color: white;
+ }
+.sunDiv4{
+    display: grid;
+    grid-template-columns: repeat(2/1fr);
+}
+
+.sImgDiv4{
+    margin-left: 54rem;
+    margin-top: 30rem;
+}
+.sImgDiv4 img{
+    width: 45rem;
+}
+
+#section5 {
+    width: 100rem;
+    height: 102rem;
+    margin-left: 40rem;
+    margin-right: 40rem;
+    background-color: rgba(34, 34, 78, 0.65);
+    border-bottom: 1px solid white;
+}
+
+.title5 {
+    margin-left: 3rem;
+    padding-top: 30px;
+     color: white;
+ }
+.sunDiv5{
+    display: grid;
+    grid-template-columns: repeat(2/1fr);
+}
+
+.sImgDiv5{
+    margin-left: 54rem;
+    margin-top: 30rem;
+}
+.sImgDiv5 img{
+    width: 45rem;
+}
+
+#section6 {
+    width: 100rem;
+    height: 102rem;
+    margin-left: 40rem;
+    margin-right: 40rem;
+    background-color: rgba(34, 34, 78, 0.65);
+    border-bottom: 1px solid white;
+}
+
+.title6 {
+    margin-left: 3rem;
+    padding-top: 30px;
+     color: white;
+ }
+.sunDiv6 {
+    display: grid;
+    grid-template-columns: repeat(2/1fr);
+}
+
+.sImgDiv6 {
+    margin-left: 54rem;
+    margin-top: 30rem;
+}
+.sImgDiv6 img{
+    width: 45rem;
+}
+
+#section7 {
+    width: 100rem;
+    height: 65rem;
+    margin-left: 40rem;
+    margin-right: 40rem;
+    background-color: rgba(34, 34, 78, 0.65);
+    border-bottom: 1px solid white;
+}
+
+.title7 {
+    margin-left: 3rem;
+    padding-top: 30px;
+     color: white;
+ }
+.sunDiv7 {
+    display: grid;
+    grid-template-columns: repeat(2/1fr);
+}
+
+.sImgDiv7 {
+    margin-left: 54rem;
+    margin-top: 16rem;
+}
+.sImgDiv7 img{
+    width: 45rem;
+}
+
+#section8 {
+    width: 100rem;
+    height: 130rem;
+    margin-left: 40rem;
+    margin-right: 40rem;
+    background-color: rgba(34, 34, 78, 0.65);
+    border-bottom: 1px solid white;
+}
+
+.title8 {
+    margin-left: 3rem;
+    padding-top: 30px;
+     color: white;
+ }
+.sunDiv8 {
+    display: grid;
+    grid-template-columns: repeat(2/1fr);
+}
+
+.sImgDiv8 {
+    margin-left: 54rem;
+    margin-top: 40rem;
+}
+.sImgDiv8 img{
+    width: 45rem;
+}
+
+#section9 {
+    width: 100rem;
+    height: 120rem;
+    margin-left: 40rem;
+    margin-right: 40rem;
+    background-color: rgba(34, 34, 78, 0.65);
+    border-bottom: 1px solid white;
+}
+
+.title9 {
+    margin-left: 3rem;
+    padding-top: 30px;
+     color: white;
+ }
+.sunDiv9 {
+    display: grid;
+    grid-template-columns: repeat(2/1fr);
+}
+
+.sImgDiv9 {
+    margin-left: 54rem;
+    margin-top: 40rem;
+}
+.sImgDiv9 img{
+    width: 45rem;
 }
