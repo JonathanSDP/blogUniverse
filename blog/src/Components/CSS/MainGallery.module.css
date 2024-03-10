@@ -1,0 +1,49 @@
+.headerBG {
+    background-color: brown;
+    height: 8rem;
+}
+.title {
+    font-weight: 400; 
+    font-size: 4rem;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+}
+
+.line {
+    background-color: #550b51;
+    height: 5px;
+    width: 100%;
+    display: block;
+}
+
+.gallerySection {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    width: 95%;
+    margin: auto;
+    padding: 40px 0;
+    grid-gap: 10px;
+    overflow: hidden;
+}
+
+.gallerySection > a {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 6px rgba(211, 32, 247, 0.5);
+}
+
+.gallerySection img {
+    width: 100%;
+    vertical-align: top;
+    height: 300px;
+    object-fit: cover;
+    transition: transform 0.5s;
+}
+
+.gallerySection a:hover img {
+    filter: blur(2px);
+    transform: rotate(10deg) scale(1.3);
+
+}
