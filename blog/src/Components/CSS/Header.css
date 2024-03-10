@@ -58,20 +58,13 @@
     }
 }
 @media (min-width: 1024px) {
-    .head-t-div {
-        display: flex;
-        color: red;
-        align-items: center;
-        margin-right: 1180px;
-    }
+    .head-title {
+        font-size: 22px;
+     }
     .nav-homebar ul{
-        list-style: none;
-        margin:auto;
+        margin-right: 80px;
     }
-    .nav-homebar ul li{
-        float: left;
-        font-size: 1.6rem;
-        margin-top: 20px;
-        margin-right: 10px;    
+    .nav-homebar ul li a {
+        font-size: 20px;
     }
 }
