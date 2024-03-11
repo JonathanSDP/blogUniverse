@@ -5,10 +5,10 @@ body {
 
 
 #section1 {
-    width: 100rem;
-    height: 95rem;
-    margin-left: 40rem;
-    margin-right: 40rem;
+    width: 35rem;
+    height: 245rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     margin-top: 8rem;
     background-color: rgba(34, 34, 78, 0.65);
     border-bottom: 1px solid white;
@@ -27,7 +27,7 @@ body {
 .theSun {
     margin-top: 8rem;
     margin-left:0.5rem;
-    width:30%;
+    width:50%;
     border-right: 1px solid white;
     border-bottom: 1px solid white;
     position: absolute;
@@ -37,18 +37,18 @@ body {
 }
 
 .sImgDiv{
-    margin-left: 49rem;
+    margin-left: 18rem;
     margin-top: 10rem;
 }
 .sImgDiv img{
-    width: 55rem;
+    width: 20rem;
 }
 
 #section2 {
-    width: 100rem;
-    height: 108rem;
-    margin-left: 40rem;
-    margin-right: 40rem;
+    width: 35rem;
+    height: 284rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     background-color: rgba(34, 34, 78, 0.65);
     border-bottom: 1px solid white;
 }
@@ -64,18 +64,18 @@ body {
 }
 
 .sImgDiv2{
-    margin-left: 49rem;
-    margin-top: 30rem;
+    margin-left: 19rem;
+    margin-top: 10rem;
 }
 .sImgDiv2 img{
-    width: 55rem;
+    width: 20rem;
 }
 
 #section3 {
-    width: 100rem;
-    height: 110rem;
-    margin-left: 40rem;
-    margin-right: 40rem;
+    width: 35rem;
+    height: 320rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     background-color: rgba(34, 34, 78, 0.65);
     border-bottom: 1px solid white;
 }
@@ -91,18 +91,18 @@ body {
 }
 
 .sImgDiv3{
-    margin-left: 49rem;
-    margin-top: 18rem;
+    margin-left: 19.5rem;
+    margin-top: 10rem;
 }
 .sImgDiv3 img{
-    width: 55rem;
+    width: 18rem;
 }
 
 #section4 {
-    width: 100rem;
-    height: 180rem;
-    margin-left: 40rem;
-    margin-right: 40rem;
+    width: 35rem;
+    height: 535rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     background-color: rgba(34, 34, 78, 0.65);
     border-bottom: 1px solid white;
 }
@@ -118,18 +118,18 @@ body {
 }
 
 .sImgDiv4{
-    margin-left: 54rem;
-    margin-top: 30rem;
+    margin-left: 22.5rem;
+    margin-top: 10rem;
 }
 .sImgDiv4 img{
-    width: 45rem;
+    width: 12rem;
 }
 
 #section5 {
-    width: 100rem;
-    height: 102rem;
-    margin-left: 40rem;
-    margin-right: 40rem;
+    width: 35rem;
+    height: 278rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     background-color: rgba(34, 34, 78, 0.65);
     border-bottom: 1px solid white;
 }
@@ -145,18 +145,18 @@ body {
 }
 
 .sImgDiv5{
-    margin-left: 54rem;
-    margin-top: 30rem;
+    margin-left: 20.5rem;
+    margin-top: 10rem;
 }
 .sImgDiv5 img{
-    width: 45rem;
+    width: 16rem;
 }
 
 #section6 {
-    width: 100rem;
-    height: 102rem;
-    margin-left: 40rem;
-    margin-right: 40rem;
+    width: 35rem;
+    height: 223rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     background-color: rgba(34, 34, 78, 0.65);
     border-bottom: 1px solid white;
 }
@@ -172,18 +172,18 @@ body {
 }
 
 .sImgDiv6 {
-    margin-left: 54rem;
-    margin-top: 30rem;
+    margin-left: 21.5rem;
+    margin-top: 10rem;
 }
 .sImgDiv6 img{
-    width: 45rem;
+    width: 13rem;
 }
 
 #section7 {
-    width: 100rem;
-    height: 65rem;
-    margin-left: 40rem;
-    margin-right: 40rem;
+    width: 35rem;
+    height: 170rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     background-color: rgba(34, 34, 78, 0.65);
     border-bottom: 1px solid white;
 }
@@ -199,18 +199,18 @@ body {
 }
 
 .sImgDiv7 {
-    margin-left: 54rem;
-    margin-top: 16rem;
+    margin-left: 21rem;
+    margin-top: 10rem;
 }
 .sImgDiv7 img{
-    width: 45rem;
+    width: 14rem;
 }
 
 #section8 {
-    width: 100rem;
-    height: 130rem;
-    margin-left: 40rem;
-    margin-right: 40rem;
+    width: 35rem;
+    height: 385rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     background-color: rgba(34, 34, 78, 0.65);
     border-bottom: 1px solid white;
 }
@@ -226,18 +226,18 @@ body {
 }
 
 .sImgDiv8 {
-    margin-left: 54rem;
-    margin-top: 40rem;
+    margin-left: 20rem;
+    margin-top: 15rem;
 }
 .sImgDiv8 img{
-    width: 45rem;
+    width: 16rem;
 }
 
 #section9 {
-    width: 100rem;
-    height: 120rem;
-    margin-left: 40rem;
-    margin-right: 40rem;
+    width: 35rem;
+    height: 350rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     background-color: rgba(34, 34, 78, 0.65);
     border-bottom: 1px solid white;
 }
@@ -253,9 +253,784 @@ body {
 }
 
 .sImgDiv9 {
-    margin-left: 54rem;
-    margin-top: 40rem;
+    margin-left: 20.5rem;
+    margin-top: 15rem;
 }
 .sImgDiv9 img{
-    width: 45rem;
+    width: 15rem;
+}
+
+@media (min-width: 412px) {
+    #section1 {
+        width: 35rem;
+        height: 205rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        margin-top: 8rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    .sunDiv{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .title {
+       margin-left: 3rem;
+       padding-top: 20px;
+        color: white;
+    }
+    
+    .theSun {
+        margin-top: 8rem;
+        margin-left:0.5rem;
+        width:50%;
+        border-right: 1px solid white;
+        border-bottom: 1px solid white;
+        position: absolute;
+        color: white;
+        text-align: left;
+        font-size: 2rem;
+    }
+    
+    .sImgDiv{
+        margin-left: 18rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv img{
+        width: 20rem;
+    }
+    
+    #section2 {
+        width: 35rem;
+        height: 255rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title2 {
+       margin-left: 3rem;
+       padding-top: 30px;
+        color: white;
+    }
+    .sunDiv2{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv2{
+        margin-left: 19rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv2 img{
+        width: 20rem;
+    }
+    
+    #section3 {
+        width: 35rem;
+        height: 278rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title3 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv3{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv3{
+        margin-left: 19.5rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv3 img{
+        width: 18rem;
+    }
+    
+    #section4 {
+        width: 35rem;
+        height: 465rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title4 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv4{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv4{
+        margin-left: 22.5rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv4 img{
+        width: 12rem;
+    }
+    
+    #section5 {
+        width: 35rem;
+        height: 254rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title5 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv5{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv5{
+        margin-left: 20.5rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv5 img{
+        width: 16rem;
+    }
+    
+    #section6 {
+        width: 35rem;
+        height: 193rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title6 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv6 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv6 {
+        margin-left: 21.5rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv6 img{
+        width: 13rem;
+    }
+    
+    #section7 {
+        width: 35rem;
+        height: 145rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title7 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv7 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv7 {
+        margin-left: 21rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv7 img{
+        width: 14rem;
+    }
+    
+    #section8 {
+        width: 35rem;
+        height: 345rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title8 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv8 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv8 {
+        margin-left: 20rem;
+        margin-top: 15rem;
+    }
+    .sImgDiv8 img{
+        width: 16rem;
+    }
+    
+    #section9 {
+        width: 35rem;
+        height: 300rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title9 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv9 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv9 {
+        margin-left: 20.5rem;
+        margin-top: 15rem;
+    }
+    .sImgDiv9 img{
+        width: 15rem;
+    }
+}
+
+@media (min-width: 768px) {
+    #section1 {
+        width: 70rem;
+        height: 115rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        margin-top: 8rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    .sunDiv{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .title {
+       margin-left: 3rem;
+       padding-top: 20px;
+        color: white;
+    }
+    
+    .theSun {
+        margin-top: 8rem;
+        margin-left:0.5rem;
+        width:50%;
+        border-right: 1px solid white;
+        border-bottom: 1px solid white;
+        position: absolute;
+        color: white;
+        text-align: left;
+        font-size: 2rem;
+    }
+    
+    .sImgDiv{
+        margin-left: 40rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv img{
+        width: 30rem;
+    }
+    
+    #section2 {
+        width: 70rem;
+        height: 133rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title2 {
+       margin-left: 3rem;
+       padding-top: 30px;
+        color: white;
+    }
+    .sunDiv2{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv2{
+        margin-left: 41rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv2 img{
+        width: 30rem;
+    }
+    
+    #section3 {
+        width: 70rem;
+        height: 147rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title3 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv3{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv3{
+        margin-left: 43.4rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv3 img{
+        width: 25rem;
+    }
+    
+    #section4 {
+        width: 70rem;
+        height: 242rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title4 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv4{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv4{
+        margin-left: 45.4rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv4 img{
+        width: 20rem;
+    }
+    
+    #section5 {
+        width: 70rem;
+        height: 133rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title5 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv5{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv5{
+        margin-left: 45rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv5 img{
+        width: 22rem;
+    }
+    
+    #section6 {
+        width: 70rem;
+        height: 106rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title6 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv6 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv6 {
+        margin-left: 45rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv6 img{
+        width: 18rem;
+    }
+    
+    #section7 {
+        width: 70rem;
+        height: 82rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title7 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv7 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv7 {
+        margin-left: 45rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv7 img{
+        width: 21rem;
+    }
+    
+    #section8 {
+        width: 70rem;
+        height: 178rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title8 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv8 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv8 {
+        margin-left: 43rem;
+        margin-top: 15rem;
+    }
+    .sImgDiv8 img{
+        width: 25rem;
+    }
+    
+    #section9 {
+        width: 70rem;
+        height: 158rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title9 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv9 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv9 {
+        margin-left: 45rem;
+        margin-top: 15rem;
+    }
+    .sImgDiv9 img{
+        width: 21rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    #section1 {
+    width: 100rem;
+    height: 95rem;
+    margin-left: 40rem;
+    margin-right: 40rem;
+    margin-top: 8rem;
+    background-color: rgba(34, 34, 78, 0.65);
+    border-bottom: 1px solid white;
+    }
+
+    .sunDiv{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+
+    .title {
+        margin-left: 3rem;
+        padding-top: 20px;
+         color: white;
+     }
+
+     .theSun {
+        margin-top: 8rem;
+        margin-left:0.5rem;
+        width:30%;
+        border-right: 1px solid white;
+        border-bottom: 1px solid white;
+        position: absolute;
+        color: white;
+        text-align: left;
+        font-size: 2rem;
+    }
+
+    .sImgDiv{
+        margin-left: 49rem;
+        margin-top: 10rem;
+    }
+    .sImgDiv img{
+        width: 55rem;
+    }
+
+    #section2 {
+        width: 100rem;
+        height: 108rem;
+        margin-left: 40rem;
+        margin-right: 40rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title2 {
+       margin-left: 3rem;
+       padding-top: 30px;
+        color: white;
+    }
+    .sunDiv2{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv2{
+        margin-left: 49rem;
+        margin-top: 30rem;
+    }
+    .sImgDiv2 img{
+        width: 55rem;
+    }
+
+    #section3 {
+        width: 100rem;
+        height: 110rem;
+        margin-left: 40rem;
+        margin-right: 40rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title3 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv3{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv3{
+        margin-left: 49rem;
+        margin-top: 18rem;
+    }
+    .sImgDiv3 img{
+        width: 55rem;
+    }
+
+    #section4 {
+        width: 100rem;
+        height: 180rem;
+        margin-left: 40rem;
+        margin-right: 40rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title4 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv4{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv4{
+        margin-left: 54rem;
+        margin-top: 30rem;
+    }
+    .sImgDiv4 img{
+        width: 45rem;
+    }
+    
+    #section5 {
+        width: 100rem;
+        height: 102rem;
+        margin-left: 40rem;
+        margin-right: 40rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title5 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv5{
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv5{
+        margin-left: 54rem;
+        margin-top: 30rem;
+    }
+    .sImgDiv5 img{
+        width: 45rem;
+    }
+
+    #section6 {
+        width: 100rem;
+        height: 102rem;
+        margin-left: 40rem;
+        margin-right: 40rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title6 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv6 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv6 {
+        margin-left: 54rem;
+        margin-top: 30rem;
+    }
+    .sImgDiv6 img{
+        width: 45rem;
+    }
+
+    #section7 {
+        width: 100rem;
+        height: 65rem;
+        margin-left: 40rem;
+        margin-right: 40rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title7 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv7 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv7 {
+        margin-left: 54rem;
+        margin-top: 16rem;
+    }
+    .sImgDiv7 img{
+        width: 45rem;
+    }
+
+    #section8 {
+        width: 100rem;
+        height: 130rem;
+        margin-left: 40rem;
+        margin-right: 40rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+    
+    .title8 {
+        margin-left: 3rem;
+        padding-top: 30px;
+         color: white;
+     }
+    .sunDiv8 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+    
+    .sImgDiv8 {
+        margin-left: 54rem;
+        margin-top: 40rem;
+    }
+    .sImgDiv8 img{
+        width: 45rem;
+    }
+    
+    #section9 {
+        width: 100rem;
+        height: 120rem;
+        margin-left: 40rem;
+        margin-right: 40rem;
+        background-color: rgba(34, 34, 78, 0.65);
+        border-bottom: 1px solid white;
+    }
+
+    .title9 {
+        margin-left: 3rem;
+        padding-top: 30px;
+        color: white;
+    }
+    .sunDiv9 {
+        display: grid;
+        grid-template-columns: repeat(2/1fr);
+    }
+
+    .sImgDiv9 {
+        margin-left: 54rem;
+        margin-top: 40rem;
+    }
+    .sImgDiv9 img{
+        width: 45rem;
+    }
 }

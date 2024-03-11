@@ -73,6 +73,8 @@
 .close {
     display: block;
     position: absolute;
+    margin-right: 136px;
+    margin-top: 100px;
     top: 90px;
     right: 180px;
     background-color: #550b51;
@@ -96,6 +98,7 @@
     text-align: center;
 }
 
+
 @media screen and (max-width: 400px) {
     .gallerySection{ 
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -103,5 +106,36 @@
     .close{
         right: 20px;
         top: 20px;
+    }
+}
+
+@media (min-width: 412px) {
+    .close {
+        margin-top: 20px;
+        margin-right: 0px;
+    }
+}
+
+@media (min-width: 768px) {
+    .close {
+        margin-top: 35px;
+        margin-right: 185px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .close {
+        display: block;
+        position: absolute;
+        top: 90px;
+        right: 180px;
+        background-color: #550b51;
+        color: white;
+        text-decoration: none;
+        height: px;
+        width: 40px;
+        text-align: center;
+        line-height: 40px;
+        border-radius: 50%;
     }
 }
