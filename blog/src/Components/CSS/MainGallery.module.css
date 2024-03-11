@@ -124,18 +124,8 @@
 }
 
 @media (min-width: 1024px) {
-    .close {
-        display: block;
-        position: absolute;
-        top: 90px;
-        right: 180px;
-        background-color: #550b51;
-        color: white;
-        text-decoration: none;
-        height: px;
-        width: 40px;
-        text-align: center;
-        line-height: 40px;
-        border-radius: 50%;
-    }
+  .close {
+    margin-top: -30px;
+    margin-right: 40px;
+  }
 }
